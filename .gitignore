@@ -69,3 +69,6 @@ SETUP_REPORT.md
 .env.local
 __pycache__/
 node_modules/
+
+# Vercel local state (contains project tokens)
+.vercel/
