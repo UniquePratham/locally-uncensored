@@ -64,3 +64,8 @@ discord_invite.txt
 carl-bot-setup.md
 app-discord-integration.md
 SETUP_REPORT.md
+
+# Added by repo hygiene pass
+.env.local
+__pycache__/
+node_modules/
